@@ -24,7 +24,7 @@ sudo sh install.sh
 | ------------- |:-------------------------:|
 | Fan 5V        | OrangePI 5V               |
 | Fan GND       | Transistor Collector (C)  |
-| GPIO 6        | Transistor Base (B)       | 
+| GPIO1_C2 (wPi6 )        | Transistor Base (B)       | 
 | GND           | Transistor Emitter (E)    |
 
 ![schematic](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/tree/main/img/schematica.png)
