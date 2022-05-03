@@ -10,7 +10,7 @@ Enter password if needed
 
 ```bash
 git clone https://github.com/Crazy-Child/cooler-controller-orangePI4_lts.git
-cd cooler-controller-orangePI
+cd cooler-controller-orangePI4_lts
 sudo sh install.sh
 ```
 
