@@ -1,7 +1,8 @@
 # cooler-controller-orangePI4_lts
-his script measures temperature of cpu and turns on/off cooler if necessary.
-Should work with any OrangePI.
-
+The script turns on / off the fan depending on the temperature of the processor. The on/off temperature can be changed in cooler_controller.sh with the command:
+```bash
+nano cooler_controller.sh
+```
 [WiringOP](https://github.com/orangepi-xunlong/wiringOP.git) was used to measure temperature of Orange pi.
 
 
