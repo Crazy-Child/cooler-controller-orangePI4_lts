@@ -7,7 +7,7 @@ while true
 do
 temperature=` cat /sys/class/thermal/thermal_zone0/temp`
 # Upper edge
-if [ $temperature -gt 60000 ]; then
+if [ $temperature -gt 59000 ]; then
   echo "Fan ON"
   gpio write 6 1
 fi;
