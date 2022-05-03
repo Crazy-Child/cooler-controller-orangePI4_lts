@@ -44,7 +44,7 @@ sudo sh install.sh
  |   65 |   1 | I2C2_SCL | ALT3 | 0 |  5 || 6  |   |      | GND      |     |      |
  |  150 |   2 |     PWM1 |   IN | 0 |  7 || 8  | 1 | ALT2 | I2C3_SCL | 3   | 145  |
  |      |     |      GND |      |   |  9 || 10 | 1 | ALT2 | I2C3_SDA | 4   | 144  |
- |   33 |   5 | GPIO1_A1 |   IN | 0 | 11 || 12 | 1 | OUT   | GPIO1_C2 | 6   | 50   |
+ |   33 |   5 | GPIO1_A1 |   IN | 0 | 11 || 12 | 1 | OUT  | GPIO1_C2 | 6   | 50   |
  |   35 |   7 | GPIO1_A3 |  OUT | 0 | 13 || 14 |   |      | GND      |     |      |
  |   92 |   8 | GPIO2_D4 |  OUT | 1 | 15 || 16 | 0 | IN   | GPIO1_C6 | 9   | 54   |
  |      |     |     3.3V |      |   | 17 || 18 | 0 | IN   | GPIO1_C7 | 10  | 55   |
