@@ -28,7 +28,6 @@ sudo reboot
 | GPIO1_C2 (wPi6 )        | Transistor Base (B)       | 
 | GND           | Transistor Emitter (E)    |
 
-![schematic](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/raw/main/img/schematica.png)
 
 
 ![pinout](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/raw/main/img/1033818249.jpg)
