@@ -27,10 +27,10 @@ sudo sh install.sh
 | GPIO 6        | Transistor Base (B)       | 
 | GND           | Transistor Emitter (E)    |
 
-![schematic](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/blob/master/img/schematica.png?raw=true)
+![schematic](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/tree/main/img/schematica.png?raw=true)
 
 
-![pinout](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/blob/master/img/1033818249.jpg?raw=true)
+![pinout](https://github.com/Crazy-Child/cooler-controller-orangePI4_lts/tree/main/img/1033818249.jpg?raw=true)
 
 
 Orange Pi 4/4B/4 LTS
