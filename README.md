@@ -3,7 +3,8 @@ The script turns on / off the fan depending on the temperature of the processor.
 ```bash
 nano cooler_controller.sh
 ```
-[WiringOP](https://github.com/orangepi-xunlong/wiringOP.git) was used to measure temperature of Orange pi.
+
+For the script to work, you need to install [WiringOP](https://github.com/orangepi-xunlong/wiringOP.git) from Orange Pi.
 
 
 ### Installation process
