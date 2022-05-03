@@ -20,6 +20,7 @@ sudo reboot
 After installation, change the settings using the command
 ```bash
 nano my_scripts/cooler_controller/cooler_controller.sh
+sudo reboot
 ```
 
 ### Components
