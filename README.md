@@ -9,7 +9,7 @@ Should work with any OrangePI.
 Enter password if needed
 
 ```bash
-git clone https://github.com/Sabbaken/cooler-controller-orangePI.git
+git clone https://github.com/Crazy-Child/cooler-controller-orangePI4_lts.git
 cd cooler-controller-orangePI
 sudo sh install.sh
 ```
