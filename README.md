@@ -22,6 +22,11 @@ After installation, change the settings using the command
 nano my_scripts/cooler_controller/cooler_controller.sh
 sudo reboot
 ```
+or
+```bash
+sudo nano /root/my_scripts/cooler_controller/cooler_controller.sh
+sudo reboot
+```
 
 ### Components
 * Cooler
